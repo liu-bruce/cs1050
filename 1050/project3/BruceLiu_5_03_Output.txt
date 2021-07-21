@@ -1,0 +1,21 @@
+Welcome to a program that calcuates 
+reimburstment based on miles traveled.
+Please supply a .txt file that has
+the name BruceLiu_5_03_Input.txt, 
+and have the number of inputs
+as the first number in the file.
+----------------------------------------
+   Mileage               Reimburstment
+    250.60                $     45.11 
+     99.40                $     17.89 
+     -2.78                $      0.00 
+    999.40                $    126.93 
+    799.40                $    124.91 
+   1899.80                $    199.98 
+      0.00                $      0.00 
+   1300.20                $    140.02 
+   1101.70                $    139.20 
+   3333.30                $    239.00 
+----------------------------------------
+Total Mileage          Total reimburstment
+   9783.80                $   1033.04
